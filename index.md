@@ -19,7 +19,7 @@ Click on project name to view Project page
 3. Sai Bhavani Kumar
 
 
-### [Android Training]
+### Android Training
 
 #### [Android Fundamentals PPT](https://github.com/HITAM-EPICS/hitam-epics.github.io/blob/master/Android.pdf)
 
