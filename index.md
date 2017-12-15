@@ -21,7 +21,7 @@ Click on project name to view Project page
 
 ### Android Training
 
-#### [Android Fundamentals PPT](https://github.com/HITAM-EPICS/hitam-epics.github.io/blob/master/Android.pdf)
+##### [Android Fundamentals PPT](https://github.com/HITAM-EPICS/hitam-epics.github.io/blob/master/Android.pdf)
 
 ##### Day 1
 1. [Greetings App](https://github.com/HITAM-EPICS/Greetings-App) by [Sai Bhavani Kumar](https://github.com/sai-bhavani)
