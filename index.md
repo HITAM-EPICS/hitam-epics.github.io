@@ -31,4 +31,4 @@ Click on project name to view Project page
 
 ##### Day 2
 5. [Material Pallete](https://www.materialpalette.com/)
-6. [Localise App](https://github.com/HITAM-EPICS/Localise) by [Sanjit Singh Chouhan](https://github.com/sanjitschouhan)
+6. [Localise App](https://github.com/Localise) by [Sanjit Singh Chouhan](https://github.com/sanjitschouhan)
