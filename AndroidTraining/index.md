@@ -1,5 +1,6 @@
 ---
 title: Android Training
+published: true
 ---
 
 ## AndroidTraining
