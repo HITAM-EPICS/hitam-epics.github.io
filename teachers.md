@@ -1,3 +1,3 @@
 # teachers
 
-[doc](https://github.com/HITAM-EPICS/hitam-epics.github.io/blob/master/Letter.odt?raw=true)
+[doc](https://github.com/HITAM-EPICS/hitam-epics.github.io/raw/master/Letter.pdf)
