@@ -27,5 +27,3 @@ Click on project name to view Project page
 2. Paritosh Srivastava
 3. Sai Bhavani Kumar
 
-
-![Clg Id.jpg]({{site.baseurl}}/Clg Id.jpg)
