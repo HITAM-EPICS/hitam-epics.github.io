@@ -30,4 +30,4 @@ Click on project name to view Project page
 3. Sai Bhavani Kumar
 
 
-[2016-17](/2016-17.md)
+[2016-17](/2016-17)
